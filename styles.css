@@ -1,7 +1,27 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
 .main{
 	width:350px;
-	height:400px;
+	height:500px;
 	background-color:whitesmoke;
-	box-shadow:5px 5px 5px 5px lightgray
+	box-shadow:5px 5px 5px 5px slategray;
+	text-align:center;
+	margin:50px;
+}
+#image{
+	width:250px;
+	height:250px;
+	padding:40px;
+	 
+}
+#button{
+	border:none;
+	border-radius:5px;
+	background-color:red;
+	text-align:center;
+	height:20px;
+	
 }
