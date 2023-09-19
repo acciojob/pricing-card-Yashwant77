@@ -1,5 +1,7 @@
 /*  your css code here. If applicable */
 .main{
-	
+	width:350px;
+	height:400px;
 	background-color:whitesmoke;
+	box-shadow:5px 5px 5px 5px lightgray
 }
